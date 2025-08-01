@@ -1,14 +1,29 @@
 # News App
 
-Это  приложение для просмотра новостей.
+This is an app for viewing news.
 
-## Как запустить
+## 📦 Installation & Setup
 
-1. Склонируй репозиторий
-2. Выполни `npm install`
-3. Запусти `npm start`
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/JuliaSukharkova/news-app.git
+   cd forms
+   ```
 
-## Технологии
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start the project**:
+   ```bash
+   npm run dev
+   ```
+   - Open the application in your browser at: [http://localhost:5173/](http://localhost:5173/)
+
+---
+
+## Technology
 
 React, TypeScript, Ant Design
 
